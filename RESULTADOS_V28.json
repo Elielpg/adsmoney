@@ -1,0 +1,74 @@
+{
+  "version": "28.0.0",
+  "package": "BEN10_LIVE_V28_TERMUX.zip",
+  "sha256": "11a4e061b46734ea47e7763806b3e375b77fa8b5342d35d0481abba886c10ac0",
+  "bytes": 21692584,
+  "tests": {
+    "total": 95,
+    "passed": 95,
+    "failed": 0,
+    "skipped": 0
+  },
+  "browser": {
+    "errors": [],
+    "delivery": "complete",
+    "fire": "complete",
+    "gifts": {
+      "active": null,
+      "waiting": [],
+      "length": 0,
+      "capacity": 8,
+      "completed": 2,
+      "failed": 0
+    },
+    "camera": {
+      "minRadius": 6.000000490666596,
+      "samples": 465
+    },
+    "reload": {
+      "position": [
+        0,
+        0,
+        122.91918499999154
+      ],
+      "server": [
+        0,
+        0,
+        122.72514499997679
+      ]
+    },
+    "layout": {
+      "width": 430,
+      "documentWidth": 430,
+      "route": "Bellwood",
+      "version": "v28.0.0"
+    }
+  },
+  "crossCity": {
+    "errors": [],
+    "from": [
+      0,
+      0,
+      123.8766799999866
+    ],
+    "to": [
+      0,
+      0,
+      475.21641500018757
+    ],
+    "destination": "coast",
+    "mission": "complete"
+  },
+  "archiveSmoke": {
+    "build": "28.0.0",
+    "archive": "BEN10_LIVE_V28_TERMUX.zip",
+    "files": 295,
+    "health": true,
+    "html": true,
+    "localAssets": true,
+    "bundledModels": 9,
+    "credentialsIncluded": false,
+    "note": "Extrai o ZIP real com o validador do atualizador e inicia seu servidor; reutiliza as dependências locais do mesmo lockfile."
+  },
+  "note": "Eventos DEMO e transporte LIVE controlado nos testes. Conexão real TikTok foi confirmada pelo usuário no celular; transporte preservado."
+}
