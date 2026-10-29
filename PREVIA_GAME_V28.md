@@ -1,6 +1,8 @@
 # Prévia da V28 — Estrada Infinita LIVE
 
-[Vídeo do jogo em execução](PREVIA_GAME_V28.webm)
+![Jogo V28 em execução no navegador](PREVIA_GAME_V28.png)
+
+[Baixar vídeo do jogo em execução](https://raw.githubusercontent.com/Elielpg/adsmoney/main/PREVIA_GAME_V28.webm)
 
 O vídeo foi gravado diretamente do canvas Babylon no Chromium. Mostra caminhada na avenida, missão de entrega, focos de incêndio com Aquático, poder do Chama e dash ativados por presentes e uma viagem até outra cidade. Não é uma animação ilustrativa ou vídeo gerado.
 
